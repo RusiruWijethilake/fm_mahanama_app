@@ -1,6 +1,6 @@
 # FM Mahanama Mobile & Web App 🇱🇰
 
-![GitHub](https://img.shields.io/github/license/RusiruWijethilake/fm_mahanama_app?style=for-the-badge) ![GitHub all releases](https://img.shields.io/github/downloads/RusiruWijethilake/fm_mahanama_app/total?style=for-the-badge) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=KMCLTB8B2H7JC)
+![GitHub](https://img.shields.io/github/license/RusiruWijethilake/fm_mahanama_app?logo=license&style=for-the-badge) ![GitHub all releases](https://img.shields.io/github/downloads/RusiruWijethilake/fm_mahanama_app/total?style=for-the-badge) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=KMCLTB8B2H7JC)
 
 Official FM Mahanama client open-source app for mobile and web written in Flutter and uses Google Material 3 design framework.
 
