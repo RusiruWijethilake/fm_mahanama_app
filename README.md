@@ -1,6 +1,6 @@
 # FM Mahanama Mobile & Web App
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](rusiru.wijethilake@gmail.com)
+![GitHub](https://img.shields.io/github/license/RusiruWijethilake/fm_mahanama_app?style=for-the-badge) ![GitHub all releases](https://img.shields.io/github/downloads/RusiruWijethilake/fm_mahanama_app/total?style=for-the-badge) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=KMCLTB8B2H7JC)
 
 Official FM Mahanama client open-source app for mobile and web written in Flutter and uses Google Material 3 design framework.
 
@@ -71,4 +71,9 @@ Yes, you can make a fork or download and use the code for your projects. But whe
 
 If you like my work or want to help the future development of FM Mahanama app feel free to buy me a coffee
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](rusiru.wijethilake@gmail.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=KMCLTB8B2H7JC)
+
+
+## Want your own app?
+
+FM Mahanama is a growing app but not the only app created by the developer. If you like to get your own customized app for any idea, business or something else contact send a email to [rusirumc@gmail.com](mailto:rusirumc@gmail.com). Let's discuss a better approach for your needs.
