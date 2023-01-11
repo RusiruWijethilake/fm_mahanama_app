@@ -74,6 +74,6 @@ If you like my work or want to help the future development of FM Mahanama app fe
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=KMCLTB8B2H7JC)
 
 
-## Want your own app?
+## Want your own app or website?
 
-FM Mahanama is a growing app but not the only app created by the developer. If you like to get your own customized app for any idea, business or something else contact send a email to [rusirumc@gmail.com](mailto:rusirumc@gmail.com). Let's discuss a better approach for your needs.
+FM Mahanama is a growing app but not the only app created by the developer. If you like to get your own customized app or website for any idea, business or something else contact send a email to [rusirumc@gmail.com](mailto:rusirumc@gmail.com). Let's discuss a better approach for your needs.
