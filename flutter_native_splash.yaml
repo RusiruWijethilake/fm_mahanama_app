@@ -1,0 +1,18 @@
+# This creates the splash screen for Android, iOS and web
+# The splash screen for macOS is created by the flutter_native_splash package
+# use 'flutter pub run flutter_native_splash:create' to generate the splash screen
+# Do not change the file
+
+flutter_native_splash:
+  color: "#F7BE00" # The background color for the splash screen
+  image: assets/logos/fmm_logo.png # The image to use for the splash screen
+  android_12: # Enable Android 12 splash screen
+    image: assets/logos/fmm_logo.png # The image to use for the Android 12 splash screen
+    color: "#F7BE00" # The background color for the Android 12 splash screen
+  android: true # Enable Android splash screen
+  ios: true # Enable iOS splash screen
+  web: true # Enable web splash screen
+  android_gravity: center # The gravity for the Android splash screen
+  ios_content_mode: center # The content mode for the iOS splash screen
+  web_image_mode: center # The image mode for the web splash screen
+  android_screen_orientation: sensorPortrait # The screen orientation for the Android splash screen

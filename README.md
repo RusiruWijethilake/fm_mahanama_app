@@ -14,7 +14,7 @@ First launched in 2016 FM Mahanama app provided easy listening to FM Mahanama li
 
 Ticked features are currently available in the releases while others are yet to be developed. Use discussion to suggest ideas or code new features and make a PR.
 
-* [ ]  Clean modern design
+* [X]  Clean modern design
 * [ ]  Radio player with notification control
 * [ ]  Live station metadata (Now playing, presented by, cover art)
 * [ ]  Live scoreboard
@@ -30,11 +30,22 @@ Ticked features are currently available in the releases while others are yet to 
 
 #### IDE
 
-* Android Studio (`Dolphin | 2021.3.1 Patch 1`)
+* Android Studio (`Electric Eel | 2022.1.1`)
 
 #### Libraries
 
-* responsive_framework (`0.2.0`)
+* responsive_framework: `0.2.0`
+* flutter_svg: `^1.1.6`
+* flutter_firebase_chat_core: `^1.6.4`
+* firebase_core: `^2.4.1`
+* shared_preferences: `^2.0.16`
+* http: `^0.13.5`
+* connectivity_plus: `^3.0.2`
+* loader_overlay: `^2.1.0`
+* flutter_launcher_icons: `^0.11.0`
+* animations: `^2.0.7`
+* flutter_native_splash: `^2.2.16`
+* just_audio: `^0.9.31`
 
 #### Database/Cloud
 
@@ -62,7 +73,16 @@ A:Unfortunately the older applications are now unsupported and will not be updat
 
 #### Q: Can I use this code for my own? (Forks)
 
-A: Yes, you can make a fork or download and use the code for your projects. But when you do please concider the licensing information. However, the source code doesn't includes the Firebase and other required configuration files because security concerns. Currently, developer doesn't share or give access to those configurations.
+A: Yes, you can make a fork or download and use the code for your projects. But when you do please concider the licensing information. Please consider the legal aspect when using the brand name FM Mahanama which is owned by Radio Club of Mahanama College. Also, please do not copy the firebase configuration as it will not work in any other project.
+
+#### Q: Can I host or distribute releases of FM Mahanama mobile or web app on my own?
+
+A: No you can't. App releases will only be available on this git repository's release channel and in app updates will be only taken from the release channel. App will contain hash checkers to verify whether it is from a official distribution network.
+
+Current distribution networks as follows,
+
+* Git repository release channel
+* ~~APKMirror (After the initial release)~~
 
 ## Support Me ❤️
 
